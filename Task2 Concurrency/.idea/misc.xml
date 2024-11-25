@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ConcurrencyAndMultithreading/pom.xml" />
+        <option value="$PROJECT_DIR$/Deadlocks/pom.xml" />
+        <option value="$PROJECT_DIR$/WhereYourBusDude/pom.xml" />
+        <option value="$PROJECT_DIR$/BlockingObjectPool/pom.xml" />
+        <option value="$PROJECT_DIR$/Task5Application/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="sapmachine-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
