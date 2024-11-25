@@ -8,7 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Task5Application" />
         <module name="WhereYourBusDude" />
-        <module name="ConcurrencyAndMultithreading" />
+        <module name="DasExperiment" />
         <module name="Deadlocks" />
         <module name="BlockingObjectPool" />
       </profile>
